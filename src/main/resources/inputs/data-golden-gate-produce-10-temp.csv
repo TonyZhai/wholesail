@@ -1,0 +1,2 @@
+id,customer,amount,date,adjustment,term_schedule,items,billing_address,shipping_address,paid_at,paid_amount,note
+id-8,customer-8,800,2022-01-01,-98,90,"{""items"":[{""item"":""item-name-2"",""quantity"":8,""unitPrice"":100.0,""totalAmount"":800.0,""description"":""item-description-2""}]}","8 Market Street, San Francisco CA 94102","8 Main Street, Oakland CA 94345",,400,some-other-note-8
